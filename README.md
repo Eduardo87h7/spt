@@ -1,2 +1,2 @@
 # spt
-Sitio web del sistema SPT
+Sitio web para pruebas del sistema STC
